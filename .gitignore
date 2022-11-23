@@ -3,6 +3,7 @@ DerivedDataCache
 Intermediate
 Saved
 Build
+packaged
 .vscode
 .vs
 *.VC.db
